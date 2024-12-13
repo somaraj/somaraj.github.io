@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Somaraj!
-
 🌐 **Web Developer | .NET Specialist | Open Source Enthusiast**
 
 
